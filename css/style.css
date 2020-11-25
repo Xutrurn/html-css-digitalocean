@@ -21,6 +21,15 @@
   height: 500px;
 }
 
+.debug .h_650 {
+  height: 650px;
+}
+
+.debug .h_750 {
+  height: 750px;
+}
+
+
 .debug section {
   padding: 50px 0;
 }
@@ -37,7 +46,6 @@
 .bg_yellow {
   background-color: rgb(223, 226, 177);
 }
-
 
 /* inizio header */
 header {
