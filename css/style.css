@@ -1,0 +1,45 @@
+/* debug */
+.debug [class*='col-'] {
+  background-color: rgb(150, 200, 200);
+  height: 100px;
+  border: 1px solid rgb(200, 150, 100);
+}
+
+.debug .h_90 {
+  height: 90px;
+}
+
+.debug .h_400 {
+  height: 400px;
+}
+
+.debug .h_500 {
+  height: 500px;
+}
+
+.debug section {
+  padding: 50px 0;
+}
+
+/* classi riutilizzabili */
+.bg_green {
+  background-color: #1ABC9C;
+}
+
+.bg_orange {
+  background-color: rgb(237, 183, 127);
+}
+
+/* inizio header */
+header {
+  /* background-color: pink; */
+}
+
+/* inizio jumbotron */
+footer .footer-top {
+  background-color: #3A546D;
+}
+
+footer .footer-bottom {
+  background-color: #2C3E50;
+}
