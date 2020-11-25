@@ -9,6 +9,10 @@
   height: 90px;
 }
 
+.debug .h_300 {
+  height: 300px;
+}
+
 .debug .h_400 {
   height: 400px;
 }
@@ -30,6 +34,11 @@
   background-color: rgb(237, 183, 127);
 }
 
+.bg_yellow {
+  background-color: rgb(223, 226, 177);
+}
+
+
 /* inizio header */
 header {
   /* background-color: pink; */
@@ -37,9 +46,9 @@ header {
 
 /* inizio jumbotron */
 footer .footer-top {
-  background-color: #3A546D;
+  /* background-color: #3A546D; */
 }
 
 footer .footer-bottom {
-  background-color: #2C3E50;
+  /* background-color: #2C3E50; */
 }
