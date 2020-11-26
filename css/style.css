@@ -55,6 +55,10 @@
   color: white;
 }
 
+.txt_gray {
+  color: #5b6987;
+}
+
 /* inizio header */
 header {
   /* height: 100px; */
@@ -105,7 +109,33 @@ ul li i {
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
+  line-height: 25px;
 }
+
+.h1p {
+  width: 100%;
+}
+
+.card {
+  min-width: 50px;
+  /* height: 200px; */
+  background-color: white;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+/* innobiz */
+#innobiz {
+  background-color: #f3f5f9;
+  /* temp height */
+  height: 200px;
+}
+
+#innobiz img {
+  height: 70px;
+}
+
+
 
 footer .footer-top {
   /* background-color: #3A546D; */
