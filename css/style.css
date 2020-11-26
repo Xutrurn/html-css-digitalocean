@@ -10,8 +10,8 @@
 }
 
 .debug .h_li_100 {
-  height: 100px;
-  line-height: 100px;
+  height: 80px;
+  line-height: 80px;
 }
 
 .debug .h_300 {
@@ -53,11 +53,24 @@
 
 /* inizio header */
 header {
-  /* background-color: pink; */
+  /* height: 100px; */
+}
+
+.navbar .nb_navbar {
+  border-radius: 0;
+  border: 0;
+  background-color: white;
+  height: 80px;
 }
 
 nav img {
-  width: 100%;
+  height: 25px;
+  vertical-align: middle;
+}
+
+nav i {
+  color: #0069ff;
+  font-size: 18px;
 }
 
 /* inizio jumbotron */
