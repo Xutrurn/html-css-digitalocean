@@ -59,6 +59,9 @@
   color: #5b6987;
 }
 
+.txt_blue {
+  color: #031c4e;
+}
 /* inizio header */
 header {
   /* height: 100px; */
@@ -171,7 +174,16 @@ ul li i {
 }
 
 #customers a p{
-  color: green;
+  color: #00d7d2;
+}
+
+#devteams{
+  background-color: #f3f5f9;
+  temp height: 700px;
+}
+
+#devteams img{
+  width: 100%;
 }
 
 
