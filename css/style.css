@@ -9,6 +9,11 @@
   height: 90px;
 }
 
+.debug .h_li_100 {
+  height: 100px;
+  line-height: 100px;
+}
+
 .debug .h_300 {
   height: 300px;
 }
@@ -49,6 +54,10 @@
 /* inizio header */
 header {
   /* background-color: pink; */
+}
+
+nav img {
+  width: 100%;
 }
 
 /* inizio jumbotron */
