@@ -154,6 +154,12 @@ ul li i {
   width: 100%;
 }
 
+#features{
+  background-color: white;
+  /* temp height */
+  height: 500px;
+}
+
 
 
 footer .footer-top {
