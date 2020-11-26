@@ -128,13 +128,21 @@ ul li i {
 #innobiz {
   background-color: #f3f5f9;
   /* temp height */
-  height: 200px;
+  height: 400px;
 }
 
 #innobiz img {
   height: 70px;
 }
 
+#deploy {
+  background-color: #ffffff;
+  /* temp height */
+  /* height: 900px; */
+}
+
+#deploy ul{
+}
 
 
 footer .footer-top {
