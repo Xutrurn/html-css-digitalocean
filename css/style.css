@@ -160,6 +160,21 @@ ul li i {
   height: 500px;
 }
 
+#customers{
+  background-color: #0043c2;
+  /* temp height */
+  height: 500px;
+}
+
+#customers p{
+  color: white;
+}
+
+#customers a p{
+  color: green;
+}
+
+
 
 
 footer .footer-top {
