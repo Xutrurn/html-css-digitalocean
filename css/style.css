@@ -132,10 +132,6 @@ ul li i {
   background-size: cover;
 }
 
-.h1p {
-  width: 100%;
-}
-
 .card {
   background-color: white;
   border-radius: 4px;
@@ -146,11 +142,23 @@ ul li i {
 #innobiz {
   background-color: #f3f5f9;
   /* temp height */
-  height: 400px;
+  /* height: 400px; */
+}
+
+#innobiz h3 {
+  font-size: 20px;
+  color: #6f7b97;
+  padding: 30px 0;
+}
+
+.inno_p{
+  padding: 30px;
 }
 
 #innobiz img {
-  height: 60px;
+  /* width: 80%; */
+  height: 85px;
+  /* padding: 10px 0; */
 }
 
 #deploy {
