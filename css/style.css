@@ -62,6 +62,11 @@
 .txt_blue {
   color: #031c4e;
 }
+
+.txt_bluelight {
+  color: #006aff;
+}
+
 /* inizio header */
 header {
   /* height: 100px; */
@@ -113,12 +118,12 @@ ul li i {
   margin: 70px 0 0;
 }
 
-.md_10{
+.md_10 {
   margin-bottom: 10px;
 }
 
-#jumbotron .g_icon::before{
-  content:"";
+#jumbotron .g_icon::before {
+  content: "";
   display: block;
   width: 20px;
   height: 20px;
@@ -127,10 +132,6 @@ ul li i {
   background-size: cover;
 }
 
-
-
-
-
 .h1p {
   width: 100%;
 }
@@ -138,7 +139,7 @@ ul li i {
 .card {
   background-color: white;
   border-radius: 4px;
-  padding: 10px;
+  padding: 20px;
 }
 
 /* innobiz */
@@ -158,50 +159,46 @@ ul li i {
   height: 800px;
 }
 
-#deploy ul{
-}
+#deploy ul {}
 
-#desdev{
+#desdev {
   background-color: #f3f5f9;
   /* temp height */
   height: 500px;
 }
 
-#desdev img{
+#desdev img {
   width: 100%;
 }
 
-#features{
+#features {
   background-color: white;
   /* temp height */
   height: 500px;
 }
 
-#customers{
+#customers {
   background-color: #0043c2;
   /* temp height */
   height: 500px;
 }
 
-#customers p{
+#customers p {
   color: white;
 }
 
-#customers a p{
+#customers a p {
   color: #00d7d2;
 }
 
-#devteams{
+#devteams {
   background-color: #f3f5f9;
   temp height: 700px;
 }
 
-#devteams img{
+#devteams img {
   width: 100%;
 }
-
-
-
 
 footer .footer-top {
   /* background-color: #3A546D; */
