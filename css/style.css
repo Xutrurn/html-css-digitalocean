@@ -151,44 +151,113 @@ ul li i {
   padding: 30px 0;
 }
 
-.inno_p{
+.inno_p {
   padding: 30px;
 }
 
 #innobiz img {
-  /* width: 80%; */
-  height: 85px;
-  /* padding: 10px 0; */
+  height: 60px;
+}
+
+#innobiz h2 {
+  /* font-size: 20px; */
+  color: #6f7b97;
+  /* padding: 30px 0; */
 }
 
 #deploy {
   background-color: #ffffff;
   /* temp height */
-  height: 800px;
+  /* height: 800px; */
 }
 
-#deploy ul {}
+#deploy {
+  padding: 30px 0;
+}
+
+.deploy_pw {
+  padding: 0 100px;
+  color: grey;
+  margin-bottom: 50px;
+}
+
+#deploy h2 {
+  /* font-weight: bold; */
+  font-size: 34px;
+  color: #131c33;
+  margin-top: 30px;
+}
+
+#deploy li {
+  font-size: 20px;
+  color: grey;
+  line-height: 2.5;
+  border-left: 2px solid lightgrey;
+  padding-left: 10px;
+}
+
+#deploy ul {
+  margin-bottom: 30px;
+  display: inline-block;
+  list-style: none;
+}
+
+#deploy .process p {
+  padding-right: 150px;
+  margin-bottom: 50px;
+}
+
+.deploy_pt {
+  /* padding-top: 50px; */
+}
+
+.deploy_pb_10 {
+  /* padding-bottom: 10px; */
+}
+
+.deploy_pb_30 {
+  /* padding-bottom: 30px; */
+}
 
 #desdev {
   background-color: #f3f5f9;
+  padding: 30px 0;
   /* temp height */
-  height: 500px;
+  /* height: 500px; */
 }
 
 #desdev img {
   width: 100%;
+  /* vertical-align: auto; */
+}
+
+.desdev_mt {
+  margin-top: 65px;
+}
+
+.desdev_pb {
+  padding-bottom: 30px;
+}
+
+#desdev p {
+  margin-top: 10px;
+}
+
+#desdev i {
+  margin-top: 10px;
+  color: #006aff;
 }
 
 #features {
   background-color: white;
   /* temp height */
-  height: 500px;
+  /* height: 500px; */
 }
 
 #customers {
   background-color: #0043c2;
   /* temp height */
-  height: 500px;
+  /* height: 500px; */
 }
 
 #customers p {
@@ -201,11 +270,30 @@ ul li i {
 
 #devteams {
   background-color: #f3f5f9;
-  temp height: 700px;
+  /* temp height */
+  /* height: 700px; */
+}
+
+.devteams_ptb {
+  padding: 20px 0;
 }
 
 #devteams img {
   width: 100%;
+}
+
+#getstart {
+  /* temp height */
+  /* height: 200px; */
+  background-image: linear-gradient(180deg,#0047c6 0,#001d99);
+}
+
+.getstart_pb{
+  padding-bottom: 90px;
+}
+
+.getstart_pt{
+  padding-top: 90px;
 }
 
 footer .footer-top {
